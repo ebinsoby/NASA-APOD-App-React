@@ -6,7 +6,7 @@ import Home from './Components/Home.js'
 
 function App() {
   return (
-    <HashRouter>
+    <HashRouter basename={process.env.PUBLIC_URL}>
     <div className='app'>
       <Route component={Home} path="/"  exact/>
       <Route  component={NasaPhoto} path="/nasaphoto"/>  
