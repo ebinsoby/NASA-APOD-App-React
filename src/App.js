@@ -1,6 +1,6 @@
 import './App.css';
 import React from 'react'
-import {HashRouter, Route} from 'react-router-dom'
+import {BrowserRouter, Route} from 'react-router-dom'
 import NasaPhoto from './Components/NasaPhoto.js'
 import Home from './Components/Home.js'
 
