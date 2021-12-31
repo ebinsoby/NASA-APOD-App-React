@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/NASA-APOD-App-React/static/css/main.08787f06.css",
+    "main.js": "/NASA-APOD-App-React/static/js/main.7a02646f.js",
+    "static/js/787.73b07e01.chunk.js": "/NASA-APOD-App-React/static/js/787.73b07e01.chunk.js",
+    "static/media/galaxy4.jpeg": "/NASA-APOD-App-React/static/media/galaxy4.f8c2404ecd049bc57ec6.jpeg",
+    "index.html": "/NASA-APOD-App-React/index.html",
+    "main.08787f06.css.map": "/NASA-APOD-App-React/static/css/main.08787f06.css.map",
+    "main.7a02646f.js.map": "/NASA-APOD-App-React/static/js/main.7a02646f.js.map",
+    "787.73b07e01.chunk.js.map": "/NASA-APOD-App-React/static/js/787.73b07e01.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.08787f06.css",
+    "static/js/main.7a02646f.js"
+  ]
+}
