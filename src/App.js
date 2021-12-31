@@ -8,8 +8,8 @@ function App() {
   return (
     <BrowserRouter>
     <div className='app'>
-      <Route component={Home} path="/"  exact/>
-      <Route  component={NasaPhoto} path="/nasaphoto"/>  
+      <Route component={Home} path="*/nasa/"  exact/>
+      <Route  component={NasaPhoto} path="/nasa/nasaphoto"/>  
     </div>
     </BrowserRouter>
   );
