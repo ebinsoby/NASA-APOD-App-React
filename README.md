@@ -5,3 +5,8 @@ A stellar app built with NASA open APIs : https://api.nasa.gov/
 *   Bootstrapped with create-react-app
 *   Vanilla CSS
 *   env variables to hide personal key
+
+## Screenshots
+
+![StartupScreen](/Screenshots/Screenshot1.png?raw=true "StartupScreen")
+![StartupScreen](/Screenshots/Screenshot2.png?raw=true "StartupScreen")
