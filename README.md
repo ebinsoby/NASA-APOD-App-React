@@ -14,4 +14,4 @@ Deployed at Netlify : https://ebinsoby-nasa-apod.netlify.app
 ## Screenshots
 
 ![StartupScreen](/Screenshots/Screenshot1.png?raw=true "StartupScreen")
-![StartupScreen](/Screenshots/Screenshot2.png?raw=true "StartupScreen")
+![StartupScreen](/Screenshots/Screenshot2new.png?raw=true "StartupScreen")
