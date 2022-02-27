@@ -5,6 +5,7 @@ const apiKey = process.env.REACT_APP_NASA_KEY;
 const NasaPhoto = () => {
   const [photoData, setPhotoData] = useState(null);
 
+  
   useEffect(() => {
     async function fetchphoto() {
       const res = await fetch(
